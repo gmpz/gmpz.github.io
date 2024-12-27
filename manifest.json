@@ -2,7 +2,7 @@
   "name": "My Mini Game",
   "description": "My mini game with TON",
   "url": "https://gmpz.github.io",
-  "icon": "https://gmpz.github.io/icon.jpg"
+  "icon": "https://gmpz.github.io/icon.jpg",
   "termsOfUseUrl": "https://gmpz.github.io/terms-of-use.txt",
   "privacyPolicyUrl": "https://gmpz.github.io/privacy-policy.txt"
 }
